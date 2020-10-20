@@ -1,0 +1,47 @@
+[
+    {
+        "Gender":"M",
+        "FirstName": "Dev",
+        "LastName": "Bhattarai",
+        "Email": "test@gmail.com",
+        "Company": "Seva Development",
+        "Password": "123456",
+        "ConfirmPassword":"123456"
+    },
+    {
+        "Gender":"M",
+        "FirstName": "Dev",
+        "LastName": "Bhattarai",
+        "Email": "test@gmail.com",
+        "Company": "Seva Development",
+        "Password": "123456",
+        "ConfirmPassword":"123456"
+    },
+    {
+        "Gender":"M",
+        "FirstName": "Dev",
+        "LastName": "Bhattarai",
+        "Email": "test@gmail.com",
+        "Company": "Seva Development",
+        "Password": "123456",
+        "ConfirmPassword":"123456"
+    },
+    {
+        "Gender":"M",
+        "FirstName": "Dev",
+        "LastName": "Bhattarai",
+        "Email": "test@gmail.com",
+        "Company": "Seva Development",
+        "Password": "123456",
+        "ConfirmPassword":"123456"
+    },
+    {
+        "Gender":"M",
+        "FirstName": "Dev",
+        "LastName": "Bhattarai",
+        "Email": "test@gmail.com",
+        "Company": "Seva Development",
+        "Password": "123456",
+        "ConfirmPassword":"123456"
+    }
+    ]
